@@ -17,15 +17,15 @@ IPython
 
 File description
 
-0. Read me.txt
+0. Read me.txt: 
     This file.
 
-1. Lithography Simulation_2D.ipynb
+1. Lithography Simulation_2D.ipynb : 
     2D version of pierremifasol's code. Only Abbe's formula is implemented. I will update Hopkins' formula further and development process.
     At this code, there are 3 kind of mask(reticle), a hole, L shape and L shape with OPC.  
 
-2. Lithography Simulation with python.ipynb
+2. Lithography Simulation with python.ipynb : 
     same code with pierremifasol's code "Lithography I - Basics"
 
-3. Aberration and Defocus.ipynb
+3. Aberration and Defocus.ipynb : 
     same code with pierremifasol's code"Lithography II - Aberrations and Defocus."
