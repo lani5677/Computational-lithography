@@ -6,6 +6,7 @@ The file "Lithography Simulation with python.ipynb" and "Aberration and Defocus.
 
 
 Dependencies
+
 numpy
 matplotlib
 scikit-fmm
